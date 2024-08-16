@@ -18,6 +18,7 @@ from datetime import datetime
 import json
 import platform
 import uuid
+import os
 
 # Глобальные переменные
 last_message_id = None
