@@ -1,0 +1,2 @@
+dist/bot.exe filter=lfs diff=lfs merge=lfs -text
+build/bot/bot.pkg filter=lfs diff=lfs merge=lfs -text
