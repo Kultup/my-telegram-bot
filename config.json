@@ -1,0 +1,10 @@
+{
+    "telegram_bot_token": "7410403471:AAGRMOkcmy3wz4IsRtfSBy7VQoN0QSfVeJM",
+    "youtube_api_key": "AIzaSyAFazoR1V_RvUIqK2YD7ORqTYsmYReSp6g",
+    "google_cse_api_key": "AIzaSyAFazoR1V_RvUIqK2YD7ORqTYsmYReSp6g",
+    "google_cse_cx": "b537f9e6ff4ac45cb",
+    "api_id": 18384644,
+    "api_hash": "dba5c80db3f9df590f4a1a561ecf2455",
+    "openai_api_key": "sk-jDjvV8F_XL36OZE-dxeue2GMZEeO8SiTDOBvoQJHC5T3BlbkFJFKtHs1jEc6oGW-LP2VmtH3ldgzu35_EhViwK0u870A",
+    "openai_api_url": "https://api.openai.com/v1/chat/completions"
+}
